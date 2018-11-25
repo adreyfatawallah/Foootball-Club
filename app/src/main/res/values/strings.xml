@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Football Club</string>
+    <string name="prev_match">Prev. Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="favorite">Favorites</string>
+    <string name="url_prev_match">eventspastleague.php</string>
+    <string name="ur_next_match">eventsnextleague.php</string>
+    <string name="match">Match</string>
+    <string name="team">Team</string>
+    <string name="vs">vs</string>
+    <string name="goals">Goals</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="search">Search</string>
+    <string name="weight">Weight (Kg)</string>
+    <string name="height">Height (m)</string>
+    <string name="list_match_empty">List match empty</string>
+
+    <array name="item_url_match">
+        <item>@string/ur_next_match</item>
+        <item>@string/url_prev_match</item>
+    </array>
+
+    <array name="item_text_match">
+        <item>@string/next_match</item>
+        <item>@string/prev_match</item>
+    </array>
+
+    <array name="item_text_favorite">
+        <item>@string/match</item>
+        <item>@string/team</item>
+    </array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tx_date" type="id"/>
+    <item name="tx_home_team" type="id"/>
+    <item name="tx_home_score" type="id"/>
+    <item name="tx_away_team" type="id"/>
+    <item name="tx_away_score" type="id"/>
+    <item name="tx_time" type="id"/>
+    <item name="listMatch" type="id"/>
+    <item name="button" type="id"/>
+    <item name="item_match" type="id" />
+    <item name="refresh" type="id" />
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="im_player" type="id" />
+    <item name="tx_name_player" type="id" />
+    <item name="tx_position_player" type="id" />
+    <item name="im_alert" type="id" />
+    <item name="sp_league_match" type="id" />
+    <item name="sp_team" type="id" />
+    <item name="layout_match" type="id" />
+    <item name="rc_team" type="id" />
+</resources>

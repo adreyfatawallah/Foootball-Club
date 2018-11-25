@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/match"
+        android:enabled="true"
+        android:icon="@drawable/ic_assignment_24dp"
+        android:title="@string/match"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/team"
+        android:enabled="true"
+        android:icon="@drawable/ic_account_circle_24dp"
+        android:title="@string/team"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/favorite"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_24dp"
+        android:title="@string/favorite"
+        app:showAsAction="ifRoom" />
+</menu>
